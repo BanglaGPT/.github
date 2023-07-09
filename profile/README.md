@@ -35,7 +35,7 @@ We strongly encourage contributions from the open-source community to help us ac
 ## Join the Community
 Stay up to date with the latest news, announcements, and discussions around the BanglaGPT project:
 
-* Join our Discord server: [[link to Discord server]](https://discord.gg/4P6xAydK)
+* Join the discussion: https://github.com/orgs/BanglaGPT/discussions
 
 We believe that by collaborating and pooling our efforts, we can build a powerful language model that empowers Bangla speakers and enables innovative applications in the Bangla language ecosystem.
 
